@@ -112,6 +112,11 @@
       packages:
         - title: build-innosetup
           url: https://atom.io/packages/build-innosetup
+    - title: CSS
+      modal: css
+      packages:
+        - title: build-lessc
+          url: https://atom.io/packages/build-lessc
 - systems:
   title: Task Runner
   modal: runner
@@ -214,8 +219,4 @@
       packages:
         - title: build-jpm
           url: https://atom.io/packages/build-jpm
-    - title: CSS
-      modal: css
-      packages:
-        - title: build-lessc
-          url: https://atom.io/packages/build-lessc
+  
