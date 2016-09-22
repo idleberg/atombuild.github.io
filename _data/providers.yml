@@ -22,6 +22,8 @@
           url: https://atom.io/packages/build-grunt
         - title: build-jpm
           url: https://atom.io/packages/build-jpm
+        - title: build-lsc
+          url: https://atom.io/packages/build-lsc
     - title: CoffeeScript
       modal: coffee
       packages:
